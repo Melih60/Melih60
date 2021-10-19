@@ -10,4 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Hello World</h1>
 <h2>CatPhotoApp</h2>
-<p>Hello Paragraph</p>
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+<!-- <h1>Helloooo</h1> -->
+<!--
+<h1>Hello World</h1>
+-->
+<h2>CatPhotoApp</h2>
+<!--
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+-->
+
